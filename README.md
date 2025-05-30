@@ -64,6 +64,6 @@ This is just the beginning of my data journey. More dashboards, more tools, and 
 
 ## 🚀 Connect with Me  
 
-**[www.linkedin.com/in/gedelapraveen5](#)**  
-**[https://gedela-praveen-portfolio.netlify.app/](#)**  
+**[www.linkedin.com/in/gedelapraveen5]**  
+**[https://gedela-praveen-portfolio.netlify.app/]**  
 
