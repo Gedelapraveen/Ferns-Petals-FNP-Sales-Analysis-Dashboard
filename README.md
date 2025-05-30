@@ -28,7 +28,7 @@ This dashboard helped me understand how to turn raw data into clear, visual busi
 
 ## 📸 Dashboard Preview
 
-![Sales Analysis Dashboard Screenshot](your-image-file-name.jpg)
+![Sales Analysis Dashboard Screenshot](https://github.com/Gedelapraveen/Ferns-Petals-FNP-Sales-Analysis-Dashboard/blob/main/ferns%20and%20petal.jpg?raw=true)
 
 ---
 
